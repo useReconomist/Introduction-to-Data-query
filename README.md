@@ -1,4 +1,5 @@
 # Introduction-to-Data-query
+By Noé Osorio. ESE-IPN
 
 Aló! this will be my first contribution and its goig to be related with data query. 
 
@@ -10,5 +11,4 @@ The next contribution will be applied with a Mexican Data base Called "ENOE" & "
 
 Thanks for read me :) and if you can share could be great.
 
-Escuela Superior de Economía Noé Osorio García.
 
