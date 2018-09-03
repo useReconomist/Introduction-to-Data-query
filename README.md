@@ -1,4 +1,4 @@
-# Introduction-to-Data-query
+# Introduction-to-Data-query by Noé Osorio
 
 Aló! this will be my first contribution and its goig to be related with data query. 
 
