@@ -1,5 +1,5 @@
 # Introduction-to-Data-query
-By Noé Osorio. ESE-IPN
+By DatAmix
 
 Aló! this will be my first contribution and its goig to be related with data query. 
 
